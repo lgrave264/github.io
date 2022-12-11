@@ -3,42 +3,6 @@ body{
     color: white;
 }
 
-/* CSS for the homepage */
-
-#homeTable{
-    border: white solid 2px;
-    width:60%;
-    margin:5rem 20% 0 20%;
-    background-image: url(../images/forest.jpg);
-}
-
-.row{
-    border-bottom: solid white 2px;
-}
-
-.left{
-    float: left;
-}
-
-.right{
-    float: right;
-}
-
-.center{
-    text-align: center;
-}
-
-#welcome{
-    margin: 4rem 0 4rem 0;
-}
-
-#smile{
-    width: 60%;
-    margin: 0 20% 0 20%;
-    margin-bottom: 3rem;
-}
-
-
 /* CSS for the navbar */
 .topnav {
     background-color: #333;
@@ -67,38 +31,4 @@ body{
 
 .topnav .icon {
     display: none;
-}
-
-/* CSS for the space page */
-
-#space{
-    border: white 2px solid;
-    margin:5rem 20% 0 20%;
-    text-align: center;
-    background-image: url(../images/space.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    font-weight: 200;
-    font-size: larger;
-    color: white;
-}
-
-/* CSS for boards page */
-#boardsTable{
-    border: white solid 2px;
-    width:60%;
-    margin:5rem 20% 0 20%;
-    background-image: url(../images/Blackboard.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-#list{
-    font-size: xx-large;
-    text-align: center;
-}
-
-/* CSS for sips page */
-#sip{
-    text-align: center;
 }
